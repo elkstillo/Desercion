@@ -2,5 +2,4 @@ streamlit>=1.50
 plotly>=5.24
 pandas>=2.0
 numpy>=1.26
-# Debe coincidir con la versión con la que se entrenó/guardó el .pkl
-scikit-learn==1.6.1
+scikit-learn==1.7.2
